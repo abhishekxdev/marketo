@@ -68,11 +68,11 @@ const Hero = () => {
       }}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 w-full -mt-80 md:-mt-96 lg:-mt-[28rem]">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-normal text-slate-900 tracking-tight leading-[1.1] mb-6">
+        <h1 className="text-3xl md:text-5xl lg:text-6xl font-normal text-slate-900 tracking-tight leading-[1.1] mb-6">
           Performance <br />
-          Driven Marketing<sup className="text-2xl md:text-4xl text-slate-400">®</sup>
+          Driven Marketing<sup className="text-lg md:text-2xl text-slate-400">®</sup>
         </h1>
-        <p className="text-lg md:text-xl text-slate-600 max-w-2xl mx-auto">
+        <p className="text-sm md:text-base text-slate-600 max-w-2xl mx-auto">
           Smart strategy, striking design, strong growth.
         </p>
       </div>
